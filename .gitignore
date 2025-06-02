@@ -1,0 +1,27 @@
+# C++
+*.o
+*.out
+*.a
+*.so
+*.exe
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Node.js
+node_modules/
+dist/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+.env
+*.pid
